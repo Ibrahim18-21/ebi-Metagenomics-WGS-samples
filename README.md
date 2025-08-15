@@ -7,7 +7,7 @@ NOTE: This pipeline was developed for WGS paired end reads but with some edits o
 
 Please cite this work as:  
 > **Ibrahim Hamooda*. (2025). *Metagenomics Pipeline for WGS Data*. GitHub.  
-> https://github.com/Ibrahim18-21/repo
+> https://github.com/Ibrahim18-21/ebi-Metagenomics-WGS-samples
 > 
 <img width="1280" height="720" alt="Workflow of EBI Metagenomics pipeline WGS" src="https://github.com/user-attachments/assets/139b8529-f763-4c07-8ce6-ba8a100366d3" />
 
