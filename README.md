@@ -1,5 +1,8 @@
 # ebi-Metagenomics-WGS-samples
-This pipeline is to automatically process fastq files from the user to merge, trimm, run quality control,  masking and predicting non coding sequences to ultimately identify the taxonomic profile of samples and visualize them using krona tool,  and lastly predict coding sequences. 
+This pipeline is to automatically process fastq files from the user to merge, trimm, run quality control,  masking and predicting non coding sequences to ultimately identify the taxonomic profile of samples and visualize them using krona tool,  and lastly predict coding sequences.
+
+NOTE: This pipeline was developed for WGS paired end reads but with some edits on it, it can run on any sample and any type of sequencing.
+
 <img width="1280" height="720" alt="Workflow of EBI Metagenomics pipeline WGS" src="https://github.com/user-attachments/assets/139b8529-f763-4c07-8ce6-ba8a100366d3" />
 
 # Metagenomics Pipeline Usage Guide
