@@ -54,7 +54,7 @@ Based on your selection, the corresponding preprocessing and analysis scripts wi
   rm -f silva_ssu-20200130.tar.gz silva_lsu-20200130.tar.gz  # Optional
   ```
 
-### 3. Environment Setup
+### 3. Environment Setup (this assumes miniconda is installed)
 
 - Instead of installing dependencies individually, download the provided `environment.yml` file and run:
   ```bash
